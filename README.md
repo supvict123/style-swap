@@ -4,10 +4,12 @@ https://arxiv.org/pdf/1612.04337.pdf?fbclid=IwAR2xiW2dBBmnARfERb4wcC2wmLIUC9puHr
 
 Here I'm directly show you the result of this application.
 
-Extract the style feature of two pictures and swap features between them.
+Extract the style features of two pictures and swap features between them.
 
 Thus, the result shows in the right picture. 
 
 That's really cool!
+
+With GPU 1080Ti, it's only cost seconds to do the style swap.
  
 ![Style Swap](StyleSwap.png)
