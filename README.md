@@ -10,6 +10,6 @@ Thus, the result shows in the right picture.
 
 That's really cool!
 
-With GPU 1080Ti, it's only cost seconds to do the style swap.
+With GPU 1080Ti, it only cost seconds to do the style swap.
  
 ![Style Swap](StyleSwap.png)
