@@ -11,6 +11,8 @@ Thus, the result shows in the right picture.
 That's really cool!
 
 With GPU 1080Ti, it only cost seconds to do the style swap.
+
+If you wanna try this appliction, you can just use Style-Swap_Demo.ipynb and just change two picture.
  
 ![Style Swap](StyleSwap.png)
 
